@@ -1,0 +1,12 @@
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Student Grader\Student Grader\bin\Debug\Student Grader.exe.config
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Student Grader\Student Grader\bin\Debug\Student Grader.exe
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Student Grader\Student Grader\bin\Debug\Student Grader.pdb
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Student Grader\Student Grader\bin\Debug\Student Grader.xml
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Student Grader\Student Grader\obj\Debug\Student Grader.vbprojAssemblyReference.cache
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Student Grader\Student Grader\obj\Debug\Student_Grader.Form1.resources
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Student Grader\Student Grader\obj\Debug\Student_Grader.Resources.resources
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Student Grader\Student Grader\obj\Debug\Student Grader.vbproj.GenerateResource.cache
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Student Grader\Student Grader\obj\Debug\Student Grader.vbproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Student Grader\Student Grader\obj\Debug\Student Grader.exe
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Student Grader\Student Grader\obj\Debug\Student Grader.xml
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Student Grader\Student Grader\obj\Debug\Student Grader.pdb
